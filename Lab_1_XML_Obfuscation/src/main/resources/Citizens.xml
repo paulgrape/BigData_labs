@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<citizensList>
+    <citizen>
+        <first_name>IVAN</first_name>
+        <second_name>IVANOV</second_name>
+        <fathers_name>IVANOVICH</fathers_name>
+        <passport>
+            <number>1234</number>
+            <series>123456</series>
+        </passport>
+    </citizen>
+    <citizen>
+        <first_name>ANDREY</first_name>
+        <second_name>PETROV</second_name>
+        <fathers_name>ANDREEVICH</fathers_name>
+        <passport>
+            <number>1234</number>
+            <series>123457</series>
+        </passport>
+    </citizen>
+    <citizen>
+        <first_name>MAXIM</first_name>
+        <second_name>RYABOV</second_name>
+        <fathers_name>ALEXANDROVICH</fathers_name>
+        <passport>
+            <number>1234</number>
+            <series>123458</series>
+        </passport>
+    </citizen>
+</citizensList>
